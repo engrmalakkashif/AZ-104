@@ -231,15 +231,93 @@ WEEK 4: Monitoring & Review (20 hours) - Outlined
 
 ### ⏳ Outlined & Ready for Expansion
 
-#### **Modules 4-15** (Days 4-15)
-All module frameworks are prepared with:
-- ✅ Module structure
-- ✅ Learning objectives defined
-- ✅ Topics outlined
-- ✅ Directory structure ready
-- 📝 Content to be added
+#### **Module 4: Virtual Networking** (Day 4)
+- **Status:** ⏳ Framework Ready
+- **Location:** `Module-04-Virtual-Networking/`
+- **Topics:** VNet, Subnets, Peering, DNS
+- **Expected Labs:** 4 exercises
+- **Content Status:** Framework ready | Content to be added
 
-**See:** [15-Day Study Plan](docs/15-DAY-STUDY-PLAN.md)
+#### **Module 5: Network Security** (Day 5)
+- **Status:** ⏳ Framework Ready
+- **Location:** `Module-05-Network-Security/`
+- **Topics:** NSGs, Firewalls, DDoS, Private Link
+- **Expected Labs:** 4 exercises
+- **Content Status:** Framework ready | Content to be added
+
+#### **Module 6: Virtual Machines** (Day 6)
+- **Status:** ⏳ Framework Ready
+- **Location:** `Module-06-Virtual-Machines/`
+- **Topics:** VM creation, Image gallery, Extensions
+- **Expected Labs:** 5 exercises
+- **Content Status:** Framework ready | Content to be added
+
+#### **Module 7: Storage Accounts** (Day 7)
+- **Status:** ⏳ Framework Ready
+- **Location:** `Module-07-Storage-Accounts/`
+- **Topics:** Blob, Queue, File, Table storage
+- **Expected Labs:** 4 exercises
+- **Content Status:** Framework ready | Content to be added
+
+#### **Module 8: Azure SQL Database** (Day 8)
+- **Status:** ⏳ Framework Ready
+- **Location:** `Module-08-Azure-SQL-Database/`
+- **Topics:** Databases, Backups, Query performance
+- **Expected Labs:** 4 exercises
+- **Content Status:** Framework ready | Content to be added
+
+#### **Module 9: Azure App Service** (Day 9)
+- **Status:** ⏳ Framework Ready
+- **Location:** `Module-09-Azure-App-Service/`
+- **Topics:** Web apps, Deployment slots, Scaling
+- **Expected Labs:** 4 exercises
+- **Content Status:** Framework ready | Content to be added
+
+#### **Module 10: Containers & AKS** (Day 10)
+- **Status:** ⏳ Framework Ready
+- **Location:** `Module-10-Containers-AKS/`
+- **Topics:** Docker, Container Registry, Kubernetes
+- **Expected Labs:** 4 exercises
+- **Content Status:** Framework ready | Content to be added
+
+#### **Module 11: Azure Functions** (Day 11)
+- **Status:** ⏳ Framework Ready
+- **Location:** `Module-11-Azure-Functions/`
+- **Topics:** Functions, Triggers, Bindings
+- **Expected Labs:** 4 exercises
+- **Content Status:** Framework ready | Content to be added
+
+#### **Module 12: Monitoring & Logging** (Day 12)
+- **Status:** ⏳ Framework Ready
+- **Location:** `Module-12-Monitoring-Logging/`
+- **Topics:** Application Insights, Log Analytics
+- **Expected Labs:** 4 exercises
+- **Content Status:** Framework ready | Content to be added
+
+#### **Module 13: Backup & Recovery** (Day 13)
+- **Status:** ⏳ Framework Ready
+- **Location:** `Module-13-Backup-Recovery/`
+- **Topics:** Backups, Site Recovery, Restore
+- **Expected Labs:** 4 exercises
+- **Content Status:** Framework ready | Content to be added
+
+#### **Module 14: Security & Compliance** (Day 14)
+- **Status:** ⏳ Framework Ready
+- **Location:** `Module-14-Security-Compliance/`
+- **Topics:** Key Vault, Encryption, Security Center
+- **Expected Labs:** 4 exercises
+- **Content Status:** Framework ready | Content to be added
+
+#### **Module 15: Cost Management** (Day 15)
+- **Status:** ⏳ Framework Ready
+- **Location:** `Module-15-Cost-Management/`
+- **Topics:** Cost Analysis, Budgets, Reservations
+- **Expected Labs:** 3 exercises
+- **Content Status:** Framework ready | Content to be added
+
+---
+
+**All frameworks ready! See:** [15-Day Study Plan](docs/15-DAY-STUDY-PLAN.md)
 
 ---
 
@@ -308,18 +386,137 @@ AZ-104/
 │       ├── quick-reference.md
 │       └── policy-definitions.json
 │
-├── 📁 Module-04-Storage-Access-Security/      (Day 4 ⏳)
-├── 📁 Module-05-Storage-Accounts-Redundancy/  (Day 5 ⏳)
-├── 📁 Module-06-Azure-Files-Blob/             (Day 6 ⏳)
-├── 📁 Module-07-Deploy-Virtual-Machines/      (Day 7 ⏳)
-├── 📁 Module-08-VM-Availability-Containers/   (Day 8 ⏳)
-├── 📁 Module-09-Azure-App-Service/            (Day 9 ⏳)
-├── 📁 Module-10-Virtual-Networking-Part1/     (Day 10 ⏳)
-├── 📁 Module-11-Virtual-Networking-Part2/     (Day 11 ⏳)
-├── 📁 Module-12-Azure-Monitor-Insights/       (Day 12 ⏳)
-├── 📁 Module-13-Backup-Recovery-Part1/        (Day 13 ⏳)
-├── 📁 Module-14-Backup-Recovery-Part2/        (Day 14 ⏳)
-└── 📁 Module-15-Review-Practice-Exam/         (Day 15 ⏳)
+├── 📁 Module-04-Virtual-Networking/      (Day 4 ⏳)
+│   ├── README.md
+│   ├── SUMMARY.md
+│   ├── content/
+│   ├── labs/
+│   │   ├── LAB-NOTES.md
+│   │   └── LAB-EXERCISES.md
+│   └── resources/
+│       ├── POWERSHELL-COMMANDS.ps1
+│       └── QUICK-REFERENCE.md
+│
+├── 📁 Module-05-Network-Security/       (Day 5 ⏳)
+│   ├── README.md
+│   ├── SUMMARY.md
+│   ├── content/
+│   ├── labs/
+│   │   ├── LAB-NOTES.md
+│   │   └── LAB-EXERCISES.md
+│   └── resources/
+│       ├── POWERSHELL-COMMANDS.ps1
+│       └── QUICK-REFERENCE.md
+│
+├── 📁 Module-06-Virtual-Machines/       (Day 6 ⏳)
+│   ├── README.md
+│   ├── SUMMARY.md
+│   ├── content/
+│   ├── labs/
+│   │   ├── LAB-NOTES.md
+│   │   └── LAB-EXERCISES.md
+│   └── resources/
+│       ├── POWERSHELL-COMMANDS.ps1
+│       └── QUICK-REFERENCE.md
+│
+├── 📁 Module-07-Storage-Accounts/       (Day 7 ⏳)
+│   ├── README.md
+│   ├── SUMMARY.md
+│   ├── content/
+│   ├── labs/
+│   │   ├── LAB-NOTES.md
+│   │   └── LAB-EXERCISES.md
+│   └── resources/
+│       ├── POWERSHELL-COMMANDS.ps1
+│       └── QUICK-REFERENCE.md
+│
+├── 📁 Module-08-Azure-SQL-Database/     (Day 8 ⏳)
+│   ├── README.md
+│   ├── SUMMARY.md
+│   ├── content/
+│   ├── labs/
+│   │   ├── LAB-NOTES.md
+│   │   └── LAB-EXERCISES.md
+│   └── resources/
+│       ├── POWERSHELL-COMMANDS.ps1
+│       └── QUICK-REFERENCE.md
+│
+├── 📁 Module-09-Azure-App-Service/      (Day 9 ⏳)
+│   ├── README.md
+│   ├── SUMMARY.md
+│   ├── content/
+│   ├── labs/
+│   │   ├── LAB-NOTES.md
+│   │   └── LAB-EXERCISES.md
+│   └── resources/
+│       ├── POWERSHELL-COMMANDS.ps1
+│       └── QUICK-REFERENCE.md
+│
+├── 📁 Module-10-Containers-AKS/         (Day 10 ⏳)
+│   ├── README.md
+│   ├── SUMMARY.md
+│   ├── content/
+│   ├── labs/
+│   │   ├── LAB-NOTES.md
+│   │   └── LAB-EXERCISES.md
+│   └── resources/
+│       ├── POWERSHELL-COMMANDS.ps1
+│       └── QUICK-REFERENCE.md
+│
+├── 📁 Module-11-Azure-Functions/        (Day 11 ⏳)
+│   ├── README.md
+│   ├── SUMMARY.md
+│   ├── content/
+│   ├── labs/
+│   │   ├── LAB-NOTES.md
+│   │   └── LAB-EXERCISES.md
+│   └── resources/
+│       ├── POWERSHELL-COMMANDS.ps1
+│       └── QUICK-REFERENCE.md
+│
+├── 📁 Module-12-Monitoring-Logging/     (Day 12 ⏳)
+│   ├── README.md
+│   ├── SUMMARY.md
+│   ├── content/
+│   ├── labs/
+│   │   ├── LAB-NOTES.md
+│   │   └── LAB-EXERCISES.md
+│   └── resources/
+│       ├── POWERSHELL-COMMANDS.ps1
+│       └── QUICK-REFERENCE.md
+│
+├── 📁 Module-13-Backup-Recovery/        (Day 13 ⏳)
+│   ├── README.md
+│   ├── SUMMARY.md
+│   ├── content/
+│   ├── labs/
+│   │   ├── LAB-NOTES.md
+│   │   └── LAB-EXERCISES.md
+│   └── resources/
+│       ├── POWERSHELL-COMMANDS.ps1
+│       └── QUICK-REFERENCE.md
+│
+├── 📁 Module-14-Security-Compliance/    (Day 14 ⏳)
+│   ├── README.md
+│   ├── SUMMARY.md
+│   ├── content/
+│   ├── labs/
+│   │   ├── LAB-NOTES.md
+│   │   └── LAB-EXERCISES.md
+│   └── resources/
+│       ├── POWERSHELL-COMMANDS.ps1
+│       └── QUICK-REFERENCE.md
+│
+└── 📁 Module-15-Cost-Management/        (Day 15 ⏳)
+    ├── README.md
+    ├── SUMMARY.md
+    ├── content/
+    ├── labs/
+    │   ├── LAB-NOTES.md
+    │   └── LAB-EXERCISES.md
+    └── resources/
+        ├── POWERSHELL-COMMANDS.ps1
+        └── QUICK-REFERENCE.md
 ```
 
 ---
