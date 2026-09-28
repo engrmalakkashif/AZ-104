@@ -13,6 +13,6 @@ Inspect an existing account or create one only after checking regional pricing a
 - [Lab notes](labs/LAB-NOTES.md)
 - [Storage exercises](labs/LAB-EXERCISES.md)
 - [PowerShell commands](resources/POWERSHELL-COMMANDS.ps1)
-- [Quick reference](resources/QUICK-REFERENCE.md)
+- [CLI and storage quick reference](resources/QUICK-REFERENCE.md)
 
 See the [30-day plan](../../docs/30-DAY-STUDY-PLAN.md) and [15-part lesson template](../../MODULE-TEMPLATE.md). Storage capacity and transactions can incur charges.

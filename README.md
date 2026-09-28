@@ -15,8 +15,8 @@ A practical, Azure-focused course for preparing for the **AZ-104: Microsoft Azur
 
 | Days | Module folders |
 |---|---|
-| 1–6 | [Module 1](modules/Module-1/README.md) · [Module 2](modules/Module-2/README.md) · [Module 3](modules/Module-3/README.md) · [Module 4](modules/Module-4/README.md) · [Module 5](modules/Module-5/README.md) · [Module 6](modules/Module-6/README.md) |
-| 7–11 | [Module 7](modules/Module-7/README.md) · [Module 8](modules/Module-8/README.md) · [Module 9](modules/Module-9/README.md) · [Module 10](modules/Module-10/README.md) · [Module 11](modules/Module-11/README.md) |
+| 1–6 | [Module 1](modules/Module-01/README.md) · [Module 2](modules/Module-02/README.md) · [Module 3](modules/Module-03/README.md) · [Module 4](modules/Module-04/README.md) · [Module 5](modules/Module-05/README.md) · [Module 6](modules/Module-06/README.md) |
+| 7–11 | [Module 7](modules/Module-07/README.md) · [Module 8](modules/Module-08/README.md) · [Module 9](modules/Module-09/README.md) · [Module 10](modules/Module-10/README.md) · [Module 11](modules/Module-11/README.md) |
 | 12–18 | [Module 12](modules/Module-12/README.md) · [Module 13](modules/Module-13/README.md) · [Module 14](modules/Module-14/README.md) · [Module 15](modules/Module-15/README.md) · [Module 16](modules/Module-16/README.md) · [Module 17](modules/Module-17/README.md) · [Module 18](modules/Module-18/README.md) |
 | 19–23 | [Module 19](modules/Module-19/README.md) · [Module 20](modules/Module-20/README.md) · [Module 21](modules/Module-21/README.md) · [Module 22](modules/Module-22/README.md) · [Module 23](modules/Module-23/README.md) |
 | 24–30 | [Module 24](modules/Module-24/README.md) · [Module 25](modules/Module-25/README.md) · [Module 26](modules/Module-26/README.md) · [Module 27](modules/Module-27/README.md) · [Module 28](modules/Module-28/README.md) · [Module 29](modules/Module-29/README.md) · [Module 30](modules/Module-30/README.md) |

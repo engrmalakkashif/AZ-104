@@ -4,15 +4,40 @@ Use this structure for every AZ-104 topic or service. Write for beginners while 
 
 For every lab, list prerequisites first, give exact Portal navigation and CLI commands where applicable, state that charges may apply without promising an exact price, offer a no-deployment alternative, and provide cleanup steps. A budget is an alert, not a spending cap. Never include credentials or live secrets.
 
+## Folder and file convention
+
+The canonical course sequence is stored under `modules/` using two-digit folder names: `Module-01` through `Module-30`. Zero-padding keeps folders in numeric order in alphabetical file browsers and on GitHub.
+
+Each day folder should follow this structure:
+
+```text
+modules/Module-XX/
+├── README.md                         # Day overview and links
+├── content/
+│   └── README.md                     # Complete 15-part lesson
+├── labs/
+│   ├── LAB-NOTES.md                  # Prerequisites, environment, cost, cleanup
+│   └── LAB-EXERCISES.md              # Exact tasks, verification, expected outcomes
+└── resources/
+  ├── QUICK-REFERENCE.md            # Exam facts and safe commands
+  └── POWERSHELL-COMMANDS.ps1       # Optional, reviewed PowerShell examples
+```
+
+Use the same `Module-XX` form in links and cross-references. The day `README.md` links to its lesson, labs, and resources. When one lab is shared across adjacent days, link to the canonical file instead of copying it; record the shared coverage in the course content audit.
+
 ---
 
-# [Module X]: [Service Name] - Complete Deep Dive
+# Module-XX: [Service Name] - Complete Deep Dive
 
-**Exam Domains:** [Which domains this covers]  
+**Course Day:** [Day number]
+
+**Exam Domain:** [Current AZ-104 skill domain and objective]
 **Week:** [Week number]  
 **Study Time:** [Hours]  
 **Difficulty:** [Beginner/Intermediate/Advanced]  
 **Prerequisites:** [What should be learned first]
+
+Save this lesson as `modules/Module-XX/content/README.md`. Put lab setup and safety guidance in `modules/Module-XX/labs/LAB-NOTES.md`, stepwise labs in `LAB-EXERCISES.md`, and validated commands in `resources/`.
 
 ---
 

@@ -1,6 +1,6 @@
 # Supplemental References
 
-The core course is the `modules/Module-1` through `modules/Module-30` sequence. These topics are retained as optional context and are not separate course days:
+The core course is the `modules/Module-01` through `modules/Module-30` sequence. These topics are retained as optional context and are not separate course days:
 
 - [Azure SQL Database](optional/Module-08-Azure-SQL-Database/README.md)
 - [Azure Functions](optional/Module-11-Azure-Functions/README.md)

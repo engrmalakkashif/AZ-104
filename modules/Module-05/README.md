@@ -9,6 +9,6 @@ Explain the management-group, subscription, resource-group, and resource hierarc
 Draw a hierarchy and apply tags to a disposable resource group. If testing a lock, use a temporary resource, verify its effect, remove the lock, and only then delete the resource. A lock is not a backup.
 
 ## Shared course material
-Use [Day 4 governance theory](../Module-4/content/03-theory-and-concepts.md), [lab notes](../Module-4/labs/LAB-NOTES.md), [exercises](../Module-4/labs/LAB-EXERCISES.md), and [quick reference](../Module-4/resources/QUICK-REFERENCE.md). Day-specific hierarchy/lock work remains a gap in the [content audit](../../CONTENT-AUDIT.md).
+Use [Day 4 governance theory](../Module-04/content/03-theory-and-concepts.md), [lab notes](../Module-04/labs/LAB-NOTES.md), [exercises](../Module-04/labs/LAB-EXERCISES.md), and [quick reference](../Module-04/resources/QUICK-REFERENCE.md). Day-specific hierarchy/lock work remains a gap in the [content audit](../../CONTENT-AUDIT.md).
 
 Use the [30-day plan](../../docs/30-DAY-STUDY-PLAN.md) and [15-part lesson template](../../MODULE-TEMPLATE.md) for Portal paths, CLI, troubleshooting, and questions.

@@ -1,6 +1,6 @@
 # 30-Day Course Content Audit
 
-The `modules/Module-1` through `modules/Module-30` folders are the single course sequence. Existing material was moved into these folders; no separate `course-content` directory is required. This audit distinguishes content that exists from content still needing authoring.
+The `modules/Module-01` through `modules/Module-30` folders are the single course sequence. Existing material was moved into these folders; no separate `course-content` directory is required. This audit distinguishes content that exists from content still needing authoring.
 
 | Day | Topic | Merged content | Missing or incomplete |
 |---:|---|---|---|
@@ -10,11 +10,11 @@ The `modules/Module-1` through `modules/Module-30` folders are the single course
 | 4 | Azure Policy | Governance theory, notes, policy/tag/lock exercises, commands | Dedicated policy-only lesson and safe policy cleanup lab |
 | 5 | Resource groups, subscriptions, locks, tags | Shares governance notes and exercises from Day 4 | Dedicated hierarchy/lock exercise and CLI reference |
 | 6 | Cost Management | Cost theory, lab notes, exercises, commands | Dedicated 30-day-aligned lesson and safer budget guidance |
-| 7 | Storage accounts | Storage theory, lab notes, exercises, commands | Dedicated account/redundancy lab focused on currently supported SKUs |
-| 8 | Blob Storage | Shares Day 7 storage reference | Blob-specific theory and upload/tier exercises |
-| 9 | Blob security/protection | Shares Day 7 storage reference | SAS, Entra data access, soft delete/versioning/snapshot lab; secret-safe examples |
-| 10 | Azure Files | Full `CONTENT.md` lesson and shared storage labs/references | Dedicated Azure Files lab notes/exercises and SMB/NFS mount walkthrough |
-| 11 | Storage operations | Shares Day 7 storage references | AzCopy/lifecycle/object replication exercises and CLI quick reference |
+| 7 | Storage accounts | Full 15-part theory, lab notes/exercises, CLI and PowerShell references | Optional hands-on deployment depends on subscription pricing and regional SKU availability |
+| 8 | Blob Storage | Full 15-part theory, lab notes/exercises, CLI and PowerShell references | Live upload/tier test is optional and can incur storage/retrieval costs |
+| 9 | Blob security/protection | Full 15-part theory, lab notes/exercises, CLI and PowerShell references | Live SAS generation is intentionally not scripted; use read-only design if secret handling is unsafe |
+| 10 | Azure Files | Full 15-part `content/README.md`, dedicated lab notes/exercises and CLI/PowerShell references | Actual mount requires a compatible client and may require chargeable compute |
+| 11 | Storage operations | Full 15-part theory, lab notes/exercises, CLI/AzCopy and PowerShell references | Object replication deployment is optional; it needs compatible accounts and may incur ongoing cost |
 | 12 | Virtual machines | VM notes, exercises, PowerShell/quick reference | Dedicated Azure CLI reference and low-cost cleanup-focused VM lab |
 | 13 | Disks/encryption | Shares Day 12 VM notes/exercises | Disk-specific theory, attach/format/snapshot/encryption labs |
 | 14 | Availability/VMSS | Shares Day 12 VM references | Zones/sets/VMSS/autoscale lesson and charge-aware exercises |
