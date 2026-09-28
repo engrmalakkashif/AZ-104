@@ -9,7 +9,7 @@ Design a small environment containing Entra ID, least-privilege RBAC, policy, ta
 Complete the architecture on paper first. Provision only components that fit an approved budget; multi-resource environments can generate costs even when idle. If you deploy, use one tagged resource group, restrict inbound access, record every resource, and verify complete cleanup.
 
 ## Course resources
-- [30-day study plan](../../docs/30-DAY-STUDY-PLAN.md)
+- [30-day study plan](../../README.md#30-day-study-plan)
 - [Full content audit](../../CONTENT-AUDIT.md)
 - [Course map](../../README.md)
 - [Optional SQL outline](optional/Module-08-Azure-SQL-Database/README.md)

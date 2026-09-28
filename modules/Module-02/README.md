@@ -11,4 +11,4 @@ Build a fictional team structure on paper or with test objects in an authorized 
 ## Shared course material
 Day 2 extends [Day 1 Entra theory](../Module-01/content/01-theory-and-concepts.md) and uses its [lab notes](../Module-01/labs/LAB-NOTES.md), [exercises](../Module-01/labs/LAB-EXERCISES.md), and [quick reference](../Module-01/resources/QUICK-REFERENCE.md). Dedicated SSPR/licensing lab steps are listed as missing in the [content audit](../../CONTENT-AUDIT.md).
 
-Follow the [30-day plan](../../docs/30-DAY-STUDY-PLAN.md) and [15-part instructor template](../../MODULE-TEMPLATE.md). Verify current Portal labels and license prerequisites in Microsoft Learn.
+Follow the [30-day plan](../../README.md#30-day-study-plan) and [15-part instructor template](../../MODULE-TEMPLATE.md). Verify current Portal labels and license prerequisites in Microsoft Learn.

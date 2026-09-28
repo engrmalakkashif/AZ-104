@@ -15,4 +15,4 @@ Prefer a template review or existing training VM. A live VM can incur compute, d
 - [Quick reference](resources/QUICK-REFERENCE.md)
 - [Reference overview](REFERENCE-OVERVIEW.md)
 
-Use the [30-day plan](../../docs/30-DAY-STUDY-PLAN.md) and [15-part instructor template](../../MODULE-TEMPLATE.md).
+Use the [30-day plan](../../README.md#30-day-study-plan) and [15-part instructor template](../../MODULE-TEMPLATE.md).

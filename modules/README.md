@@ -1,6 +1,6 @@
 # AZ-104 Day Modules
 
-This directory contains the complete 30-day course sequence. Start with the [study plan](../docs/30-DAY-STUDY-PLAN.md); the root [course README](../README.md) provides the full course map.
+This directory contains the complete 30-day course sequence. Start with the [study plan](../README.md#30-day-study-plan); the root [course README](../README.md) provides the full course map.
 
 | Days | Modules |
 |---|---|

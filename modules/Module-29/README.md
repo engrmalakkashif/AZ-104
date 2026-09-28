@@ -9,6 +9,6 @@ Without notes, explain identity/governance, storage, compute, networking, and mo
 Use a current, reputable practice assessment. Sort mistakes by concept: unknown term, confused services, scope/permission error, networking path, storage option, configuration detail, or misread question. Revisit only the corresponding lesson and explain the correction aloud.
 
 ## Existing course material
-[30-day study plan and readiness checklist](../../docs/30-DAY-STUDY-PLAN.md) · [Course map](../../README.md)
+[30-day study plan and readiness checklist](../../README.md#30-day-study-plan) · [Course map](../../README.md)
 
 Use current Microsoft Learn objectives; do not rely on old exam weights or memorized question dumps.

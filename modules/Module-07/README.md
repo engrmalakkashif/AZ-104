@@ -15,4 +15,4 @@ Inspect an existing account or create one only after checking regional pricing a
 - [PowerShell commands](resources/POWERSHELL-COMMANDS.ps1)
 - [CLI and storage quick reference](resources/QUICK-REFERENCE.md)
 
-See the [30-day plan](../../docs/30-DAY-STUDY-PLAN.md) and [15-part lesson template](../../MODULE-TEMPLATE.md). Storage capacity and transactions can incur charges.
+See the [30-day plan](../../README.md#30-day-study-plan) and [15-part lesson template](../../MODULE-TEMPLATE.md). Storage capacity and transactions can incur charges.

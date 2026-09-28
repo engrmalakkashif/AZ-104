@@ -361,7 +361,7 @@ You should now be ready to move to **Module 2: Access Control & RBAC** where you
 ## 📊 Module Progress
 
 ```
-This is a legacy topic summary, not a course-progress tracker. Follow the current 30-day sequence in `../../../docs/30-DAY-STUDY-PLAN.md`.
+This is a legacy topic summary, not a course-progress tracker. Follow the current 30-day sequence in `../../README.md#30-day-study-plan`.
 ```
 
 ---

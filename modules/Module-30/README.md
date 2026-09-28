@@ -12,4 +12,4 @@ Classify errors, identify the two weakest domains, and return to the relevant Mo
 Verify current skills measured, exam logistics, and policies on Microsoft's official AZ-104 page. A practice score is diagnostic, not a guarantee of exam performance.
 
 ## Existing course material
-[30-day study plan](../../docs/30-DAY-STUDY-PLAN.md) · [Microsoft AZ-104 exam page](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-104)
+[30-day study plan](../../README.md#30-day-study-plan) · [Microsoft AZ-104 exam page](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-104)

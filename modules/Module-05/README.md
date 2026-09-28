@@ -11,4 +11,4 @@ Draw a hierarchy and apply tags to a disposable resource group. If testing a loc
 ## Shared course material
 Use [Day 4 governance theory](../Module-04/content/03-theory-and-concepts.md), [lab notes](../Module-04/labs/LAB-NOTES.md), [exercises](../Module-04/labs/LAB-EXERCISES.md), and [quick reference](../Module-04/resources/QUICK-REFERENCE.md). Day-specific hierarchy/lock work remains a gap in the [content audit](../../CONTENT-AUDIT.md).
 
-Use the [30-day plan](../../docs/30-DAY-STUDY-PLAN.md) and [15-part lesson template](../../MODULE-TEMPLATE.md) for Portal paths, CLI, troubleshooting, and questions.
+Use the [30-day plan](../../README.md#30-day-study-plan) and [15-part lesson template](../../MODULE-TEMPLATE.md) for Portal paths, CLI, troubleshooting, and questions.

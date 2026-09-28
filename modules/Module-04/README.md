@@ -15,4 +15,4 @@ Prefer a built-in Audit policy at a disposable resource-group scope. Observe com
 - [PowerShell commands](resources/POWERSHELL-COMMANDS.ps1)
 - [Quick reference](resources/QUICK-REFERENCE.md)
 
-See the [30-day plan](../../docs/30-DAY-STUDY-PLAN.md) and [15-part lesson template](../../MODULE-TEMPLATE.md). Check current policy effects and prerequisites in Microsoft Learn.
+See the [30-day plan](../../README.md#30-day-study-plan) and [15-part lesson template](../../MODULE-TEMPLATE.md). Check current policy effects and prerequisites in Microsoft Learn.

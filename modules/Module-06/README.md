@@ -15,4 +15,4 @@ Inspect Cost Analysis in the correct subscription. Create a budget only if suppo
 - [PowerShell commands](resources/POWERSHELL-COMMANDS.ps1)
 - [Quick reference](resources/QUICK-REFERENCE.md)
 
-Follow the [30-day plan](../../docs/30-DAY-STUDY-PLAN.md) and [15-part instructor template](../../MODULE-TEMPLATE.md).
+Follow the [30-day plan](../../README.md#30-day-study-plan) and [15-part instructor template](../../MODULE-TEMPLATE.md).

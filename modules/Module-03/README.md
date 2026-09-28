@@ -16,4 +16,4 @@ At a disposable resource group, inspect role assignments and practice least-priv
 - [Quick reference](resources/QUICK-REFERENCE.md)
 - [RBAC model diagram](resources/rbac-model-diagram.txt)
 
-Use the [30-day plan](../../docs/30-DAY-STUDY-PLAN.md) and [15-part instructor template](../../MODULE-TEMPLATE.md) for the complete lesson pattern.
+Use the [30-day plan](../../README.md#30-day-study-plan) and [15-part instructor template](../../MODULE-TEMPLATE.md) for the complete lesson pattern.

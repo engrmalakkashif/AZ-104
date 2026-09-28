@@ -115,7 +115,7 @@ After completing this module:
 1. Review governance concepts
 2. Week 1 is complete! Celebrate! 🎉
 3. Move to Module 4: Storage Services
-4. Continue with Day 7 in the [30-day study plan](../../docs/30-DAY-STUDY-PLAN.md)
+4. Continue with Day 7 in the [30-day study plan](../../README.md#30-day-study-plan)
 
 ---
 

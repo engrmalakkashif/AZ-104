@@ -16,4 +16,4 @@ In an authorized test tenant, inspect directory settings and create a test cloud
 - [Quick reference](resources/QUICK-REFERENCE.md)
 - [Reference overview](REFERENCE-OVERVIEW.md)
 
-Use the [30-day plan](../../docs/30-DAY-STUDY-PLAN.md) and the [15-part instructor template](../../MODULE-TEMPLATE.md) for lesson structure, CLI/Portal steps, troubleshooting, exam practice, and the short final AWS comparison.
+Use the [30-day plan](../../README.md#30-day-study-plan) and the [15-part instructor template](../../MODULE-TEMPLATE.md) for lesson structure, CLI/Portal steps, troubleshooting, exam practice, and the short final AWS comparison.
