@@ -1,6 +1,8 @@
-# Module Template: Complete 15-Part Structure
+# Module Template: Instructor-Led 15-Part Lesson
 
-**Use this template for every module to ensure consistent, comprehensive teaching.**
+Use this structure for every AZ-104 topic or service. Write for beginners while preserving correct Azure terminology. Explain terms on first use, build from fundamentals to configuration, and mark exam-critical distinctions with ⭐. Keep AWS comparison short and at the end.
+
+For every lab, list prerequisites first, give exact Portal navigation and CLI commands where applicable, state that charges may apply without promising an exact price, offer a no-deployment alternative, and provide cleanup steps. A budget is an alert, not a spending cap. Never include credentials or live secrets.
 
 ---
 
@@ -383,7 +385,9 @@ az [service] delete --name [name] --resource-group [rg] --yes
 3. Use free tier where possible
 4. Set alerts on cost budgets
 
-**Total estimated cost:** $[X] (or free)
+**Cost estimate:** Check current regional pricing for the actual configuration. Do not label a deployment free unless eligibility and limits have been verified.
+
+**No-deployment alternative:** [Portal walkthrough, template validation, `what-if`, local simulation, or diagram exercise]
 
 ---
 
@@ -730,6 +734,8 @@ Key: Eliminate incorrect options
 
 ## 1️⃣3️⃣ Interview Questions & Answers
 
+Include exactly 10 practical interview questions with clear answers. Cover beginner fundamentals through scenario-based operational judgment.
+
 ### Question 1: [Real Interview Question]
 
 **Question (Level: [Junior/Mid/Senior]):**
@@ -789,6 +795,8 @@ An important aspect is [depth detail] which is often overlooked."
 ---
 
 ## 1️⃣4️⃣ AZ-104 Practice Questions
+
+Include exactly 10 original exam-style questions with answers and explanations. Explain why the correct choice fits and why plausible distractors do not.
 
 ### Question 1 (Difficulty: Easy)
 
@@ -912,26 +920,6 @@ Setting 3: [Default] → [Recommended]
 
 ---
 
-## 🌍 Bonus: Azure ↔ AWS Comparison
-
-| Azure | AWS | Notes |
-|-------|-----|-------|
-| [Azure Service] | [AWS Equivalent] | [Key differences] |
-| [Azure Service] | [AWS Equivalent] | [Key differences] |
-
-**When to Use Which:**
-```
-Azure [Service] when:
-- [Reason 1]
-- [Reason 2]
-
-AWS Equivalent when:
-- [Reason 1]
-- [Reason 2]
-```
-
----
-
 ## 📝 Summary
 
 ### What You've Learned
@@ -957,4 +945,12 @@ After this module, you'll be ready to learn about [Next Module Name] because [co
 **Module Status:** ✅ Complete
 **Next Step:** Take practice questions & then move to next module
 **Time to Complete Module:** [X hours]
+
+## Azure ↔ AWS Comparison
+
+Keep this section short and make it the final section. Identify the closest AWS equivalent and note when the services are not exact equivalents.
+
+| Azure | AWS | Notes |
+|-------|-----|-------|
+| [Azure Service] | [AWS Equivalent] | [Key difference] |
 
