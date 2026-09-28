@@ -106,7 +106,7 @@ After completing this module, rate your understanding (1-5):
 After completing this module:
 1. Review RBAC model understanding
 2. Move to Module 3: Subscriptions & Governance
-3. Continue with Day 4 in the [30-day study plan](../../docs/30-DAY-STUDY-PLAN.md)
+3. Continue with Day 4 in the [30-day study plan](../docs/30-DAY-STUDY-PLAN.md)
 
 ---
 

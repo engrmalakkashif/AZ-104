@@ -8,7 +8,11 @@ Study VNet address spaces, CIDR, subnet planning, reserved addresses, NICs, priv
 ## Lab and practice
 Design a VNet with Web, App, and DB subnets on paper first. A VNet-only design can be reviewed without compute; if deployed, use a disposable resource group and remove all networking resources afterward.
 
-## Existing course material
-[Networking reference](../course-content/Module-04-Virtual-Networking/README.md) · [30-day networking sequence](../docs/30-DAY-STUDY-PLAN.md)
+## Merged course material
+- [Networking theory](content/README.md)
+- [Lab notes](labs/LAB-NOTES.md)
+- [Networking exercises](labs/LAB-EXERCISES.md)
+- [PowerShell commands](resources/POWERSHELL-COMMANDS.ps1)
+- [Quick reference](resources/QUICK-REFERENCE.md)
 
 Use the [15-part instructor template](../MODULE-TEMPLATE.md) and verify address ranges do not overlap connected networks.

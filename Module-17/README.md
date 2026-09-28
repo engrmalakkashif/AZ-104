@@ -8,7 +8,7 @@ Understand Azure Container Registry (ACR), repositories, tags, authentication, A
 ## Lab and practice
 Prefer a local build/run workflow. If pushing to ACR or deploying to Azure, check registry storage and running compute charges, use a disposable resource group, and remove the registry and app after testing.
 
-## Existing course material
-[Containers reference](../course-content/Module-10-Containers-AKS/README.md) · [30-day compute sequence](../docs/30-DAY-STUDY-PLAN.md)
+## Existing outline
+[Legacy containers outline](legacy-reference/README.md). Dedicated container theory, lab notes, exercises, and a CLI quick reference are still missing; see the [content audit](../CONTENT-AUDIT.md).
 
 Use the [15-part instructor template](../MODULE-TEMPLATE.md) and confirm current service feature support before deployment.

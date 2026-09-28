@@ -8,7 +8,7 @@ Distinguish Azure Backup (data protection and restore) from Azure Site Recovery 
 ## Lab and practice
 Use a workflow diagram or inspect an existing vault. Protecting a VM creates storage and retention charges. Only run a live backup/restore with authorization, a disposable workload, a reviewed policy, and a cleanup plan.
 
-## Existing course material
-[Backup reference](../course-content/Module-13-Backup-Recovery/README.md) · [30-day monitoring sequence](../docs/30-DAY-STUDY-PLAN.md)
+## Existing outline
+[Legacy backup/recovery outline](legacy-reference/README.md). Dedicated theory, lab notes, exercises, and CLI reference are still missing; see the [content audit](../CONTENT-AUDIT.md).
 
 Use the [15-part instructor template](../MODULE-TEMPLATE.md). Confirm vault type, workload support, redundancy, retention, and regional recovery design.

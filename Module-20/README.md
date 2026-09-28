@@ -8,7 +8,11 @@ Understand inbound/outbound NSG rules, source/destination, protocols, ports, pri
 ## Lab and practice
 Model a least-privilege SSH/HTTP rule and predict the result before applying it. In a live lab, restrict SSH/RDP to your current IP, verify effective rules, then remove the temporary rule.
 
-## Existing course material
-[Network security reference](../course-content/Module-05-Network-Security/README.md) · [30-day networking sequence](../docs/30-DAY-STUDY-PLAN.md)
+## Merged course material
+- [Network security theory](content/README.md)
+- [Lab notes](labs/LAB-NOTES.md)
+- [Network security exercises](labs/LAB-EXERCISES.md)
+- [PowerShell commands](resources/POWERSHELL-COMMANDS.ps1)
+- [Quick reference](resources/QUICK-REFERENCE.md)
 
 Follow the [15-part instructor template](../MODULE-TEMPLATE.md). An NSG is not a substitute for a firewall or application authorization.

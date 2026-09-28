@@ -8,7 +8,7 @@ Compare metric, log, and Activity Log alerts. Learn alert rules, action groups, 
 ## Lab and practice
 Design a CPU threshold alert and trace its action group. Configure a real alert only in an authorized test scope; email/SMS delivery and Log Analytics ingestion have service-specific limits and possible charges.
 
-## Existing course material
-[Monitoring reference](../course-content/Module-12-Monitoring-Logging/README.md) · [30-day monitoring sequence](../docs/30-DAY-STUDY-PLAN.md)
+## Course content status
+Dedicated alert/insight theory, lab notes, exercises, and CLI reference are still missing; see the [content audit](../CONTENT-AUDIT.md).
 
 Use the [15-part instructor template](../MODULE-TEMPLATE.md) and validate alert scope and signal type before enabling notifications.

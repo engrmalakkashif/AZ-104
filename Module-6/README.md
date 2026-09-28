@@ -8,7 +8,11 @@ Study Cost Analysis, budgets, alerts, Azure Advisor, tags for cost allocation, a
 ## Lab and practice
 Inspect Cost Analysis in the correct subscription. Create a budget only if supported and authorized. Review current charges and remove lab resources. Complete 30–40 practice questions and record weak concepts.
 
-## Existing course material
-[Cost reference](../course-content/Module-15-Cost-Management/README.md) · [Governance reference](../course-content/Module-03-Subscriptions-Governance/README.md)
+## Merged course material
+- [Cost Management theory](content/README.md)
+- [Lab notes](labs/LAB-NOTES.md)
+- [Cost exercises](labs/LAB-EXERCISES.md)
+- [PowerShell commands](resources/POWERSHELL-COMMANDS.ps1)
+- [Quick reference](resources/QUICK-REFERENCE.md)
 
 Follow the [30-day plan](../docs/30-DAY-STUDY-PLAN.md) and [15-part instructor template](../MODULE-TEMPLATE.md).

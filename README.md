@@ -21,29 +21,13 @@ A practical, Azure-focused course for preparing for the **AZ-104: Microsoft Azur
 | 19–23 | [Module 19](Module-19/README.md) · [Module 20](Module-20/README.md) · [Module 21](Module-21/README.md) · [Module 22](Module-22/README.md) · [Module 23](Module-23/README.md) |
 | 24–30 | [Module 24](Module-24/README.md) · [Module 25](Module-25/README.md) · [Module 26](Module-26/README.md) · [Module 27](Module-27/README.md) · [Module 28](Module-28/README.md) · [Module 29](Module-29/README.md) · [Module 30](Module-30/README.md) |
 
-The `Module-1` through `Module-30` folders are the day-by-day course sequence. The topic-named folders below are retained as existing reference material.
-
-| Days | Domain | Existing course material |
-|---|---|---|
-| 1–2 | Microsoft Entra ID, users, groups, licenses, SSPR | [Identity reference](course-content/Module-01-Identities-Users/README.md) |
-| 3 | Azure RBAC | [RBAC reference](course-content/Module-02-Access-Control-RBAC/README.md) |
-| 4–6 | Azure Policy, subscriptions, resource groups, locks, tags, cost | [Governance reference](course-content/Module-03-Subscriptions-Governance/README.md), [Cost reference](course-content/Module-15-Cost-Management/README.md) |
-| 7–11 | Storage accounts, Blob Storage, data protection, Azure Files, lifecycle and transfer | [Storage reference](course-content/Module-07-Storage-Accounts/README.md) |
-| 12–14 | Virtual machines, disks, availability and scale | [VM reference](course-content/Module-06-Virtual-Machines/README.md) |
-| 15–16 | ARM templates and Bicep | See the [30-day plan](docs/30-DAY-STUDY-PLAN.md) for the learning sequence and safe deployment guidance |
-| 17–18 | Containers and App Service | [Containers reference](course-content/Module-10-Containers-AKS/README.md), [App Service reference](course-content/Module-09-Azure-App-Service/README.md) |
-| 19–23 | VNets, NSGs, peering, routes, endpoints, DNS and load balancing | [Networking reference](course-content/Module-04-Virtual-Networking/README.md), [Network security reference](course-content/Module-05-Network-Security/README.md) |
-| 24–26 | Azure Monitor, alerts, insights and Network Watcher | [Monitoring reference](course-content/Module-12-Monitoring-Logging/README.md) |
-| 27 | Azure Backup and Site Recovery | [Backup reference](course-content/Module-13-Backup-Recovery/README.md) |
-| 28–30 | Integrated lab, revision and mock exam | [30-day study plan](docs/30-DAY-STUDY-PLAN.md) |
-
-`Module-1` through `Module-30` are the only day-by-day module folders. `course-content/` preserves older detailed lessons, labs, scripts, and quick references as supporting material; its legacy numbering is not the course sequence. Azure SQL, Functions, and broader security/compliance references are supplemental; prioritize current exam objectives.
+These 30 folders are the only course sequence. Existing lessons, labs, notes, PowerShell scripts, and quick references have been moved into the relevant day folders. See the [content audit](CONTENT-AUDIT.md) for per-day material status and missing lab components. Supplemental legacy references are grouped inside Day 28 and the relevant day folders.
 
 ## How lessons are organized
 
 Use the course plan for the daily sequence. In each module, follow the available theory, lab notes, exercises, and quick reference. The [module template](MODULE-TEMPLATE.md) defines the full instructor-led lesson structure: definition, purpose, components, architecture, workflow, Portal, CLI, safe lab, DevOps use case, troubleshooting, mistakes, exam focus, interview questions, practice questions, revision notes, and a short AWS comparison.
 
-Some older module folders contain outlines rather than complete lessons. Treat those as a starting point, not as a claim that every course topic already has a full lesson. The 30-day plan identifies the intended coverage and offers non-provisioning alternatives where a live lab may cost money.
+Some day folders still share cross-day lab material or need dedicated lessons and exercises. The content audit identifies those gaps; do not treat an outline as a completed deep-dive lesson.
 
 ## Lab safety
 

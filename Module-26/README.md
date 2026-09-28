@@ -8,7 +8,7 @@ Study Network Watcher, Connection troubleshoot, IP flow verify, NSG diagnostics,
 ## Lab and practice
 Use a deliberately blocked flow in a diagram or disposable network and predict the tool result. If deploying test VMs, restrict access and check compute/monitoring charges; remove the network and VM resources after the exercise.
 
-## Existing course material
-[Monitoring reference](../course-content/Module-12-Monitoring-Logging/README.md) · [30-day monitoring sequence](../docs/30-DAY-STUDY-PLAN.md)
+## Course content status
+Dedicated Network Watcher theory, lab notes, exercises, and CLI reference are still missing; see the [content audit](../CONTENT-AUDIT.md).
 
 Follow the [15-part instructor template](../MODULE-TEMPLATE.md). Availability and exact Network Watcher tools vary by region and resource type.

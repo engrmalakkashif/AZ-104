@@ -8,7 +8,11 @@ Study VM images, sizes, OS and data disks, NICs, public/private IPs, NSGs, exten
 ## Lab and practice
 Prefer a template review or existing training VM. A live VM can incur compute, disk, and public IP charges. If approved, use the smallest eligible size, restrict SSH to your IP, stop/deallocate and then delete the VM and related resources.
 
-## Existing course material
-[VM reference](../course-content/Module-06-Virtual-Machines/README.md) · [VM quick reference](../course-content/Module-06-Virtual-Machines/resources/QUICK-REFERENCE.md)
+## Merged course material
+- [VM lab notes](labs/LAB-NOTES.md)
+- [VM exercises](labs/LAB-EXERCISES.md)
+- [PowerShell commands](resources/POWERSHELL-COMMANDS.ps1)
+- [Quick reference](resources/QUICK-REFERENCE.md)
+- [Reference overview](REFERENCE-OVERVIEW.md)
 
 Use the [30-day plan](../docs/30-DAY-STUDY-PLAN.md) and [15-part instructor template](../MODULE-TEMPLATE.md).

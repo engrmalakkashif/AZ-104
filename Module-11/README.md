@@ -8,7 +8,7 @@ Practice Azure Storage Explorer and AzCopy, lifecycle rules, object replication,
 ## Lab and practice
 Transfer a tiny test object using an authorized identity or a narrowly scoped SAS. Create or inspect a lifecycle rule without applying an unexpectedly broad deletion action. Complete 30–40 storage questions and clean up test data.
 
-## Existing course material
-[Storage reference](../course-content/Module-07-Storage-Accounts/README.md) · [Azure CLI practice](../docs/30-DAY-STUDY-PLAN.md#cli-practice-track)
+## Shared course material
+Use [Day 7 storage theory](../Module-7/content/README.md), [lab notes](../Module-7/labs/LAB-NOTES.md), [exercises](../Module-7/labs/LAB-EXERCISES.md), and [quick reference](../Module-7/resources/QUICK-REFERENCE.md). AzCopy/lifecycle tasks remain a gap in the [content audit](../CONTENT-AUDIT.md).
 
 Use the [15-part instructor template](../MODULE-TEMPLATE.md). Data transfer, transactions, and retained data may incur charges.

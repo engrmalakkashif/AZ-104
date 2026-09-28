@@ -97,7 +97,7 @@ After completing this module, rate your understanding (1-5):
 After completing this module:
 1. Review key takeaways
 2. Move to Module 2: Access Control & RBAC
-3. Continue with Day 3 in the [30-day study plan](../../docs/30-DAY-STUDY-PLAN.md)
+3. Continue with Day 3 in the [30-day study plan](../docs/30-DAY-STUDY-PLAN.md)
 
 ---
 
