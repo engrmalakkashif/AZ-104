@@ -1,6 +1,6 @@
 # 30-Day Course Content Audit
 
-The root-level `Module-1` through `Module-30` folders are the single course sequence. Existing material was moved into these folders; no separate `course-content` directory is required. This audit distinguishes content that exists from content still needing authoring.
+The `modules/Module-1` through `modules/Module-30` folders are the single course sequence. Existing material was moved into these folders; no separate `course-content` directory is required. This audit distinguishes content that exists from content still needing authoring.
 
 | Day | Topic | Merged content | Missing or incomplete |
 |---:|---|---|---|
